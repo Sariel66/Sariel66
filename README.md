@@ -3,7 +3,10 @@ Hello, I am Colton👋
 <!--
 **Sariel66/Sariel66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a gradute of CDI College, I have a constant love of learning and solving complex problems.
+
+## objective
+Recent graduate of CDI College’s Cybersecurity program with a strong foundation in network security, ethical hacking, threat analysis, and incident response. Passionate about continuous learning and contributing to the cybersecurity industry. Seeking to apply my knowledge in protecting digital assets and mitigating cyber risks in a challenging and dynamic environment. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
