@@ -86,5 +86,5 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 ## **Stay tuned for updates!**
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
-Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
+Thank you for your time. For more information, please connect with me on [LinkedIn](https://www.linkedin.com/in/colton-wolowski-a21138232/)
 
