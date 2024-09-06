@@ -4,5 +4,5 @@
 I am a gradute of CDI College, I have a constant love of learning and solving complex problems.
 
 ## Objective
-Recent graduate of CDI College’s Cybersecurity program with a strong foundation in network security, ethical hacking, threat analysis, and incident response. Passionate about continuous learning and contributing to the cybersecurity industry. Seeking to apply my knowledge in protecting digital assets and mitigating cyber risks in a challenging and dynamic environment. 
+The CDI College’s Cybersecurity program provided me with a strong foundation in network security, ethical hacking, threat analysis, and incident response.I am Passionate about continuous learning and contributing to the cybersecurity industry. Seeking transition into the field and apply my knowledge in protecting digital assets and mitigating cyber risks in a challenging and dynamic environment. 
 
