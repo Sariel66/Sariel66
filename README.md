@@ -30,5 +30,9 @@ The CDI College’s Cybersecurity program provided me with a strong foundation i
 
 ## Certifications
 <div>
-   <img src="https://img.shields.io/badge/-CEH-00008B?&style=for-the-badge&logo=CEH&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CEH-008000?&style=for-the-badge&logo=CEH&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google-000080?&style=for-the-badge&logo=google&logoColor=white" />
+
+
+
 </div>
