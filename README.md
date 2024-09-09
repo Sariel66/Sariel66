@@ -35,7 +35,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 | Projects |Skills/Knowledge Gained|
 |--------------------------------------------------|---------------------|
-|Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+|<a href="https://github.com/Sariel66/Controls-and-Compliance-Assessment/tree/main">Conduct a Security Audit</a>| `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
 |Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
 |Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
 |ssets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
