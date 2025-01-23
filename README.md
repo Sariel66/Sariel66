@@ -1,18 +1,19 @@
 # Hello, I'm Colton👋
 
-## Professional Statement
 
+
+
+## Professional Statement
 I am Colton Wolowski, a dedicated cybersecurity professional with a diploma in The Cybersecurity Specialist Program from CDI College and completion of the Google Cybersecurity Professional program. My educational background has equipped me with a robust understanding of cybersecurity principles, threat analysis, and incident response.
 
 Throughout my training, I have developed a keen ability to identify vulnerabilities, implement security measures, and analyze potential threats, ensuring the protection of critical digital assets. My hands-on experience with various security tools and methodologies, combined with my formal education, has prepared me to tackle complex security challenges.
 
 I am confident that my comprehensive knowledge and proactive approach make me an ideal candidate for the role of Security Analyst. My commitment to staying current with the latest cybersecurity trends and my analytical skills will enable me to contribute effectively to your team, enhancing the security posture of your organization.
 
-## Objective
-
-To leverage my strong analytical skills and recent certifications in cybersecurity to transition into the field as a Security Analyst. Eager to apply my knowledge of threat analysis, vulnerability assessment, and security best practices to protect organizational assets and contribute to a secure IT environment.
-
 ## Portfolio
+> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
+
+
 
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
 * Programming for cybersecurity tasks
@@ -20,8 +21,6 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 * SIEM tools for cybersecurity
 * Detecting and responding to incidents using an intrusion detection system
 * Performing packet capture and analysis
-> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
-  
 
 Additionally, it has paved the way for me to pursue one of the entry-level following roles:
 * Cybersecurity Analyst
@@ -31,18 +30,10 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 * IT Security Analyst
 * Cyber Defense Analyst
 
-## Skills
-
-| Projects |Skills/Knowledge Gained|
-|--------------------------------------------------|---------------------|
-|<a href="https://github.com/Sariel66/Controls-and-Compliance-Assessment/tree/main">Conduct a Security Audit</a>| `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-|<a href="https://github.com/Sariel66/Network-Security-Assignment/tree/main"> Network Security</a>| `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
-|Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-|ssets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-|Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-|Tcpdump & Wireshark | `Packet Analyzer` | 
-|IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-|Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+### Skills
+| Projects | Skills/Knowledge Gained |
+| :--- | :---: |
+[1](https://github.com/Sariel66/Sariel66/tree/main/1%20-%20Conduct%20an%20Audit) - Conduct a Security Audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` 
 
 
 ## Tools
