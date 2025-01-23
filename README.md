@@ -34,6 +34,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 | Projects | Skills/Knowledge Gained |
 | :--- | :---: |
 [1](https://github.com/Sariel66/Sariel66/tree/main/1%20-%20Conduct%20an%20Audit) - Conduct a Security Audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` 
+[2](https://github.com/Sariel66/Sariel66/tree/main/2%20-%20Network%20Security)
 
 
 ## Tools
